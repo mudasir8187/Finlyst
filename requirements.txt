@@ -1,7 +1,8 @@
 langchain-openai
 langchain-community
 langgraph
-psycopg2
+psycopg2-binary
 python-dotenv
 streamlit
 pandas
+
